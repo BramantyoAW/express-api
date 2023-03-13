@@ -9,6 +9,7 @@ step install express in your computer (tested in windows 10) :
 - run "npm install --save sequelize sequelize-cli" - reff : https://sequelize.org/docs/v6/getting-started/ -> run "npx sequelize"
 - run "npx sequelize init" for generated the folder seeders/migrations/models
 - run "npm install mysql2 --save"
+- run "npm i fastest-validator --save" --> for validator data from FE send to express
 
 
 note for "step install" :
